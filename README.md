@@ -1,3 +1,42 @@
+<div align="center">
+
+# 🏷️ PriceTag
+
+**Design and print professional price tags and product labels.**
+
+[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/pricetag/id6762167214](https://apps.apple.com/app/pricetag/id6762167214)
+[![Website](https://img.shields.io/badge/website-luminadevapps.com-1575F9)](https://luminadevapps.com)
+
+Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Canada
+
+</div>
+
+---
+
+## Overview
+
+Design and print professional price tags and product labels.
+
+## 📲 Download
+
+[Download on the App Store](https://apps.apple.com/app/pricetag/id6762167214](https://apps.apple.com/app/pricetag/id6762167214) — per-country links below.
+
+## 💬 Support
+
+- 🌐 [luminadevapps.com](https://luminadevapps.com)
+- ✉️ support@luminadevapps.com
+
+## About
+
+Developed by **Lumina Dev Apps**, an iOS & macOS studio in Oshawa, Ontario, Canada — apps used across 57 countries.
+
+© 2026 Lumina Dev Apps — a division of Direct Parcel Distributors Inc.
+
+---
+
+<details>
+<summary>🌍 App Store links by country</summary>
+
 # Lumina Dev Apps — App Store Links
 
 _Generated May 8, 2026 at 10:55_
@@ -212,3 +251,6 @@ _Generated May 8, 2026 at 10:55_
 
 ---
 
+
+
+</details>
