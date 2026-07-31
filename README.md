@@ -2,9 +2,10 @@
 
 # 🏷️ PriceTag
 
-**Design and print professional price tags and product labels.**
+**Design and print professional price tags, barcodes, and product labels.**
 
-[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/pricetag/id6762167214](https://apps.apple.com/app/pricetag/id6762167214)
+[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/id6762167214)
+[![Platform](https://img.shields.io/badge/platform-macOS-black?logo=apple)](https://luminadevapps.com)
 [![Website](https://img.shields.io/badge/website-luminadevapps.com-1575F9)](https://luminadevapps.com)
 
 Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Canada
@@ -15,11 +16,18 @@ Made by [**Lumina Dev Apps**](https://luminadevapps.com) · Oshawa, Ontario, Can
 
 ## Overview
 
-Design and print professional price tags and product labels.
+Design and print professional price tags, barcodes, and product labels.
+
+## ✨ Features
+
+- Price tag & label designer
+- Barcode & QR support
+- Batch printing
+- Custom templates
 
 ## 📲 Download
 
-[Download on the App Store](https://apps.apple.com/app/pricetag/id6762167214](https://apps.apple.com/app/pricetag/id6762167214) — per-country links below.
+[Download on the App Store](https://apps.apple.com/app/id6762167214) — per-country links below.
 
 ## 💬 Support
 
